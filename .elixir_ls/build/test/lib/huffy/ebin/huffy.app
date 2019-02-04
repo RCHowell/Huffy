@@ -1,0 +1,9 @@
+{application,huffy,
+             [{applications,[kernel,stdlib,elixir,logger,heap]},
+              {description,"huffy"},
+              {modules,['Elixir.Huffy','Elixir.Huffy.CLI',
+                        'Elixir.Huffy.CodeDict','Elixir.Huffy.Huffman',
+                        'Elixir.Huffy.Processor']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {extra_applications,[logger]}]}.
