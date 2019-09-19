@@ -18,7 +18,6 @@ defmodule Huffy.Processor do
     File.close(outfile)
   end
 
-  # TODO
   def decode(filepath) do
     # header is a map with bitstrings for keys and 1 bytes characters for values
     { header, data } = File.read!(filepath) |> parse_file_data
