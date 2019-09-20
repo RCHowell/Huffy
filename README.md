@@ -56,14 +56,14 @@ of bits representing the code word.
 Huffman Tree
 
 1| A
-0|---
+0|--
   0| B
   1| C
   
 %{
-	<< a :: size(r) >> => <<  1 :: size(1) >>,
-	<< b :: size(r) >> => << 00 :: size(2) >>,
-	<< c :: size(r) >> => << 01 :: size(2) >>
+  << a :: size(r) >> => <<  1 :: size(1) >>,
+  << b :: size(r) >> => << 00 :: size(2) >>,
+  << c :: size(r) >> => << 01 :: size(2) >>
 }
 ```
 
