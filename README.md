@@ -5,7 +5,7 @@ This was a fun weekend project created while studying Roman's Coding and Informa
 
 ## Build the binary
 ```
-mix escript.compile
+mix escript.build
 ```
 
 
