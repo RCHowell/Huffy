@@ -69,3 +69,6 @@ Huffman Tree
 
 #### Body
 Everything else is the compressed bytes of the source file
+
+## Is that a Huffy?
+![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/18425050_1933461303551901_2715447409346808110_n.png?_nc_cat=105&ccb=1-3&_nc_sid=9267fe&_nc_ohc=Sud5CVRkr9oAX8R0P9Y&_nc_ht=scontent-sea1-1.xx&oh=196bfaf633d5fa6cda2ae5c4d231abfc&oe=611F166C)
